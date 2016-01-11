@@ -3,6 +3,11 @@ Classic Alice Chershire cat AIKA 由Azone柴郡猫蓝华 灵感而来设计的UI
 偏于红色的设计 点击头像5次为关闭程序 点击二次为输出一串字符串 内置了控制台显示 myeclipse导入即可使用
 和即将推出的 Stargazer UserInterface 为同一设计方案
 
+
+![image](https://github.com/pisual/StargazerProjectShibagGunNekoAIKAUI-UI-/blob/master/stargazerUI/Loading.png)
+![image](https://github.com/pisual/StargazerProjectShibagGunNekoAIKAUI-UI-/blob/master/stargazerUI/BackGround.png)
+
+
 ![image](https://github.com/pisual/StargazerProjectShibagGunNekoAIKAUI-UI-/blob/master/ShibagGunNekoAIKAPicture/1.jpg)
 ![image](https://github.com/pisual/StargazerProjectShibagGunNekoAIKAUI-UI-/blob/master/ShibagGunNekoAIKAPicture/2.jpg)
 ![image](https://github.com/pisual/StargazerProjectShibagGunNekoAIKAUI-UI-/blob/master/ShibagGunNekoAIKAPicture/3.jpg)
